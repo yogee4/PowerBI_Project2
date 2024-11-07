@@ -17,6 +17,8 @@ The Google Trends Jobs Dashboard visualizes the live search interest in key job 
 
 This dashboard showcases live Google Trends data, specifically tailored to job searches in India. Its purpose is to analyze and visualize the popularity and trend of search terms related to software, development, and analytics roles. It offers insights to individuals, hiring teams, and educators about emerging interest areas in the job market.
 
+![Snap](https://github.com/yogee4/PowerBI_Project2/blob/main/Report_Snapshot.PNG)
+
 ## Key Requirements
 
 - Access to Google Trends: Using SerpAPI as a connector to pull real-time data.
@@ -42,7 +44,9 @@ he data utilized in this dashboard comes from Google Trends, accessed through th
 
 - Data Privacy and Accuracy: Relying on real-time, publicly available data poses challenges in ensuring data privacy and accuracy for sensitive analyses.Data Filters
 
-*The dashboard includes several filters to enhance the analysis:*
+## Data Filters
+
+The dashboard includes several filters to enhance the analysis:
 
 - Time Filter: Select specific time ranges to analyze trends over time.
 
